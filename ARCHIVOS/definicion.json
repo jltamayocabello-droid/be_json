@@ -1,21 +1,16 @@
 {
-    "Nombre": "Juan",
-    "Edad": 20,
-    "Ciudad": "Lima",
-    "Pais": "Peru"
-}
-
-{ 
-    "persona": {
+    "persona1": {
+        "Nombre": "Juan",
+        "Edad": 20,
+        "Ciudad": "Lima",
+        "Pais": "Peru"
+    },
+    "persona2": {
         "Nombre": "Manuel",
         "Edad": 24,
-        "Direcciones": 
-            { "Calle": "Avenida Principal 1234",
+        "Direcciones": {
+            "Calle": "Avenida Principal 1234",
             "Ciudad": "Arequipa",
-            "Pais": "Peru"
-            } 
-            { "Calle": "Avenida Secundaria 1234",
-            "Ciudad": "Tacna",
             "Pais": "Peru"
         }
     }
