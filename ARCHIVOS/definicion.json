@@ -4,3 +4,19 @@
     "Ciudad": "Lima",
     "Pais": "Peru"
 }
+
+{
+    "persona": {
+        "Nombre": "Manuel",
+        "Edad": 24,
+        "Direcciones": 
+            { "Calle": "Avenida Principal 1234",
+            "Ciudad": "Arequipa",
+            "Pais": "Peru"
+            } 
+            { "Calle": "Avenida Secundaria 1234",
+            "Ciudad": "Tacna",
+            "Pais": "Peru"
+        }
+    }
+}
