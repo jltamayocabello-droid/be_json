@@ -1,0 +1,16 @@
+GET http://localhost:3000/api/users
+
+{
+    "nombre": "Ejemplo Usuario",
+    "edad": 30,
+    "email": "usuario@example.com"
+}
+
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+    "nombre": "Ejemplo Usuario",
+    "edad": 30,
+    "email": "usuario@example.com"
+}
