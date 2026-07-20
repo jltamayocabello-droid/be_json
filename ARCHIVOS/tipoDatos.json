@@ -1,0 +1,13 @@
+{
+    "nombre": "Juan",
+    "edad": 25,
+    "estatura":1.80,
+    "ciudad":"Arica",
+    "casado": false,
+    "hobbies":["Leer", "Jugar", "Comer"],
+    "direccion": {
+        "calle": "Avenida General",
+        "numero": 1234
+    },
+    "notas": null
+}
