@@ -1,0 +1,26 @@
+{
+    "empresa":"Tech Json",
+    "empleados":[
+        {
+            "nombre":"Juan",
+            "edad":25,
+            "cargo":"Desarrollador"
+        },
+        {
+            "nombre":"Maria",
+            "edad":30,
+            "cargo":"Diseñadora"
+        },
+        {
+            "nombre":"Pedro",
+            "edad":35,
+            "cargo":"Gerente"
+        }
+    ],
+    "ubicacion":{
+        "direccion":"Avenida Principal",
+        "numero":"456",
+        "ciudad":"Lima",
+        "pais":"Peru"
+    }
+}
