@@ -7,3 +7,6 @@ let persona =
 }
 
 console.log(persona);
+
+let nombre = persona.nombre;
+console.log("El nombre es: ", nombre);
