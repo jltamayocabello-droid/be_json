@@ -10,5 +10,10 @@
         "active": {
             "type": "boolean"
         }
-    }
+    },
+    "required": [
+        "nombre",
+        "edad",
+        "active"
+    ]
 }
