@@ -9,6 +9,11 @@
         },
         "active": {
             "type": "boolean"
+        },
+        "year": {
+            "type": "integer",
+            "minimum": 1000,
+            "maximum": 3000
         }
     },
     "required": [
