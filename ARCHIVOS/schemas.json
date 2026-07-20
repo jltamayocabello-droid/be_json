@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "nombre": {
+            "type": "string"
+        },
+        "edad": {
+            "type": "integer"
+        },
+        "active": {
+            "type": "boolean"
+        }
+    }
+}
